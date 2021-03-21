@@ -1,0 +1,3 @@
+com\wc\wordcount\Map.class
+com\wc\wordcount\Reduce.class
+com\wc\wordcount\WordCount.class
